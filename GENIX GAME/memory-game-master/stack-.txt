@@ -1,0 +1,187 @@
+/tmp/MHqSwpFl1K.o
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+Enter the element to be added onto the stack:
+10
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+Enter the element to be added onto the stack:
+20
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+Enter the element to be added onto the stack:
+30
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+Enter the element to be added onto the stack:
+40
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+Enter the element to be added onto the stack:
+50
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:1
+OVERFLOW
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+Elements present in the stack :
+50
+40
+30
+20
+10
+
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:2
+popped element :50
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+Elements present in the stack :
+40
+30
+20
+10
+
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:2
+popped element :40
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+Elements present in the stack :
+30
+20
+10
+
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:2
+popped element :30
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+Elements present in the stack :
+20
+10
+
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:2
+popped element :20
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+Elements present in the stack :
+10
+
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:2
+popped element :10
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:3
+UNDERFLOW
+PERFORM OPERATIONS ON THE STACK
+1.Push the element
+2.Pop the element
+3.Disply
+4.Exit.
+
+
+ENTER THE CHOICE:4
